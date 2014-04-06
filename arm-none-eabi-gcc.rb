@@ -1,7 +1,7 @@
 require 'formula'
 
 class ArmNoneEabiGcc < Formula
-  homepage 'https://launchpad.net/gcc-arm-embdded'
+  homepage 'https://launchpad.net/gcc-arm-embedded'
   version '20130614'
   url 'https://launchpadlibrarian.net/143625835/gcc-arm-none-eabi-4_7-2013q2-20130614-mac.tar.bz2'
   sha1 'a2647aa321a70d848b2cfedc5b18b48e6619b394'
